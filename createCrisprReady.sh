@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: Robin Jones
-#RBIF100:Identifying Potential Crispr Genes in a Cohort
+#Identifying Potential Crispr Genes in a Cohort
 mkdir cohort_topmotifs
 motifs=$(cat motif_list.txt)
 file2=./exomesCohort/*.fasta
