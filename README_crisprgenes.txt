@@ -1,7 +1,7 @@
-#RBIF100 Assignment 2 - Identifying Potential Crispr Genes in a Cohort
+#Identifying Potential Crispr Genes in a Cohort
 #Author: Robin Jones
 
-This purpose of this script is to identify CRISPR gene candidates in organisms with sequenced genomes and that are between 20-30mm in size.
+This purpose of this set of scripts is to identify CRISPR gene candidates in organisms with sequenced genomes and that are between 20-30mm in size.
 
 Execute these 5 scripts inside the week4 directory in the following order by copying or typing the following into the command line:
  1)  ./copyExomes.sh 
