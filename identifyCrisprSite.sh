@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: Robin Jones
-#RBIF100:Identifying Potential Crispr Genes in a Cohort
+#Identifying Potential Crispr Genes in a Cohort
 mkdir cohort_precrispr
 file1=./cohort_topmotifs/*_topmotifs.fasta 
 #loop through each topmotif file,save code name,match GG preceeded by any 21 characters
