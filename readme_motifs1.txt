@@ -1,4 +1,4 @@
-#RBIF100 Assignment 1 - Finding and counting nucleotide motifs in a genome
+Finding and counting nucleotide motifs in a genome
 #Author: Robin Jones
 
 This purpose of this script is to identify which motifs exist in a genome,their total number of recurrences and locations in the genome.
