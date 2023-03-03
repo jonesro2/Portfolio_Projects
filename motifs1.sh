@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: Robin Jones
-#RBIF100:Finding and counting nucleotide motifs
+Finding and counting nucleotide motifs
 file1=$(cat interesting_motifs.txt) 
 file2=r_bifella.fasta 
 mkdir motifs
