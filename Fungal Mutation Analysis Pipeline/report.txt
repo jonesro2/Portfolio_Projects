@@ -1,0 +1,61 @@
+
+ Results for Individual Patient Samples
+
+ Abbey's sample was black mold and produced 699 reads. 52.0% of the reads at postion 13 had the mutation C.
+ Adelaide's sample was orange mold and produced 548 reads. 52.0% of the reads at postion 83 had the mutation C.
+ Alana's sample was black mold and produced 581 reads. 48.0% of the reads at postion 13 had the mutation C.
+ Arabella's sample was black mold and produced 519 reads. 50.0% of the reads at postion 13 had the mutation C.
+ Arianna's sample was orange mold and produced 301 reads. 45.0% of the reads at postion 83 had the mutation C.
+ Bobby's sample was black mold and produced 387 reads. 53.0% of the reads at postion 13 had the mutation C.
+ Brayden's sample was black mold and produced 566 reads. 49.0% of the reads at postion 13 had the mutation C.
+ Bridget's sample was orange mold and produced 600 reads. 50.0% of the reads at postion 83 had the mutation C.
+ Bruce's sample was orange mold and produced 547 reads. 54.0% of the reads at postion 83 had the mutation C.
+ Byron's sample was orange mold and produced 431 reads. 50.0% of the reads at postion 83 had the mutation C.
+ Cali's sample was orange mold and produced 467 reads. 51.0% of the reads at postion 83 had the mutation C.
+ Camilla's sample was orange mold and produced 441 reads. 53.0% of the reads at postion 83 had the mutation C.
+ Case's sample was black mold and produced 388 reads. 49.0% of the reads at postion 13 had the mutation C.
+ Cason's sample was black mold and produced 588 reads. 49.0% of the reads at postion 13 had the mutation C.
+ Damien's sample was black mold and produced 570 reads. 48.0% of the reads at postion 13 had the mutation C.
+ Dania's sample was black mold and produced 626 reads. 48.0% of the reads at postion 13 had the mutation C.
+ Dereon's sample was orange mold and produced 321 reads. 53.0% of the reads at postion 83 had the mutation C.
+ Destiney's sample was orange mold and produced 683 reads. 48.0% of the reads at postion 83 had the mutation C.
+ Dominik's sample was black mold and produced 381 reads. 54.0% of the reads at postion 13 had the mutation C.
+ Gabrielle's sample was orange mold and produced 334 reads. 50.0% of the reads at postion 83 had the mutation C.
+ Giancarlo's sample was orange mold and produced 497 reads. 48.0% of the reads at postion 83 had the mutation C.
+ Greta's sample was black mold and produced 315 reads. 47.0% of the reads at postion 13 had the mutation C.
+ Israel's sample was orange mold and produced 395 reads. 49.0% of the reads at postion 83 had the mutation C.
+ Javion's sample was orange mold and produced 532 reads. 49.0% of the reads at postion 83 had the mutation C.
+ Jaylen's sample was black mold and produced 329 reads. 51.0% of the reads at postion 13 had the mutation C.
+ Jazlyn's sample was yellow mold and produced 526 reads. 52.0% of the reads at postion 120 had the mutation G.
+ Jordyn's sample was black mold and produced 464 reads. 47.0% of the reads at postion 13 had the mutation C.
+ Jordyna's sample was yellow mold and produced 305 reads. 48.0% of the reads at postion 120 had the mutation G.
+ Joshua's sample was black mold and produced 460 reads. 47.0% of the reads at postion 13 had the mutation C.
+ Justus's sample was black mold and produced 575 reads. 46.0% of the reads at postion 13 had the mutation C.
+ Kamden's sample was orange mold and produced 625 reads. 52.0% of the reads at postion 83 had the mutation C.
+ Karlee's sample was yellow mold and produced 641 reads. 49.0% of the reads at postion 120 had the mutation G.
+ Kayla's sample was yellow mold and produced 593 reads. 50.0% of the reads at postion 120 had the mutation G.
+ Keaton's sample was green mold and produced 442 reads. 47.0% of the reads at postion 134 had the mutation C.
+ Kian's sample was green mold and produced 372 reads. 51.0% of the reads at postion 134 had the mutation C.
+ Kirsten's sample was black mold and produced 313 reads. 45.0% of the reads at postion 13 had the mutation C.
+ Libby's sample was yellow mold and produced 305 reads. 49.0% of the reads at postion 120 had the mutation G.
+ Lorelei's sample was orange mold and produced 352 reads. 48.0% of the reads at postion 83 had the mutation C.
+ Mariela's sample was yellow mold and produced 523 reads. 48.0% of the reads at postion 120 had the mutation G.
+ Martin's sample was green mold and produced 588 reads. 50.0% of the reads at postion 134 had the mutation C.
+ Mckayla's sample was green mold and produced 620 reads. 50.0% of the reads at postion 134 had the mutation C.
+ Mckenzie's sample was black mold and produced 342 reads. 51.0% of the reads at postion 13 had the mutation C.
+ Natalia's sample was green mold and produced 683 reads. 48.0% of the reads at postion 134 had the mutation C.
+ Santiago's sample was orange mold and produced 671 reads. 50.0% of the reads at postion 83 had the mutation C.
+ Sarai's sample was black mold and produced 480 reads. 52.0% of the reads at postion 13 had the mutation C.
+ Serena's sample was green mold and produced 468 reads. 46.0% of the reads at postion 134 had the mutation C.
+ Shelby's sample was yellow mold and produced 466 reads. 47.0% of the reads at postion 120 had the mutation G.
+ Sienna's sample was green mold and produced 536 reads. 53.0% of the reads at postion 134 had the mutation C.
+ Terry's sample was orange mold and produced 694 reads. 48.0% of the reads at postion 83 had the mutation C.
+ Tristian's sample was black mold and produced 393 reads. 51.0% of the reads at postion 13 had the mutation C.
+---------------------------
+
+ D.Gorgon SNP Evaluation
+
+ The black mold is caused by a SNP in d.gorgon at position 13.The SNP is a change from WT base G to base C.
+ The orange mold is caused by a SNP in d.gorgon at position 83.The SNP is a change from WT base G to base C.
+ The yellow mold is caused by a SNP in d.gorgon at position 120.The SNP is a change from WT base C to base G.
+ The green mold is caused by a SNP in d.gorgon at position 134.The SNP is a change from WT base G to base C.
