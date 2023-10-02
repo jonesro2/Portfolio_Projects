@@ -66,7 +66,7 @@ def plot_animals(filepath):
         plt.ylabel("MDS2")
         plt.suptitle('{} distances'.format(animal_name).title())
         plt.show()
-        #plt.savefig('{}.pdf'.format(animal_name))
+        plt.savefig('{}.pdf'.format(animal_name))
        
         
 plot_animals('./inputfiles/distanceFiles/*.distance.txt')
