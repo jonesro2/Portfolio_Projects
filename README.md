@@ -18,13 +18,13 @@
  * Analysis of microbiome diversity using Python.
 
 **Chronic Pancreatitis Biomarker Project (R)**
- * R scripts for identifying biomarkers associated with chronic pancreatitis.
+ * R script for identifying biomarkers associated with chronic pancreatitis.
 
 **Comparative Expression Analysis Project (R)**
-* R scripts for comparative expression analysis in different conditions.
+* R script for comparative expression analysis in different conditions.
 
 **Predictive Modeling for Breast Cancer Classification(R)**
- * R script for breast cancer predictive classification model using TCGA data; includes R Markdown write-up.
+* R script for breast cancer predictive classification model using TCGA data; includes R Markdown write-up.
 
 **SQL**
  * SQL script for querying COVID-19 database.
