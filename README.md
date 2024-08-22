@@ -20,11 +20,11 @@
 **Identification of Novel Biomarkers of Chronic Pancreatitis (R)**
  * R script for identifying biomarkers associated with chronic pancreatitis.
 
-**Comparative Expression Analysis Project (R)**
-* R script for comparative expression analysis in different conditions.
-
 **Predictive Modeling for Breast Cancer Classification(R)**
 * R script for breast cancer predictive classification model using TCGA data; includes R Markdown write-up.
+
+**Comparative Expression Analysis Project (R)**
+* R script for comparative expression analysis in different conditions.
 
 **SQL**
  * SQL script for querying COVID-19 database.
