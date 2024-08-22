@@ -1,6 +1,5 @@
-# Bioinformatics Repository
-
-## Welcome to my Bioinformatics repository! This repository contains a range of projects and scripts for various bioinformatics analyses, including genetic, microbiome, and cancer research. Here is an overview of the contents:
+# Welcome to My Bioinformatics Repository!
+Explore a diverse array of bioinformatics projects and scripts designed for advanced genomics, predictive modeling, and variant analysis. Here’s a snapshot of what you’ll find:
 
 ## **Projects**
 
