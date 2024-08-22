@@ -17,7 +17,7 @@
 **Microbiome Diversity Analysis Project (Python)**
  * Analysis of microbiome diversity using Python.
 
-**Chronic Pancreatitis Biomarker Project (R)**
+**Identification of Novel Biomarkers of Chronic Pancreatitis (R)**
  * R script for identifying biomarkers associated with chronic pancreatitis.
 
 **Comparative Expression Analysis Project (R)**
