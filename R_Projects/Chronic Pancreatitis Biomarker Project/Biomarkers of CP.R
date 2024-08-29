@@ -75,7 +75,7 @@ library(data.table)
 setDT(cp_named)
 
 # Specify columns to be averaged
-columns <- names(cp_named)[1:15]  # Assuming columns 2 to 16 are patient samples
+columns <- names(cp_named)[1:15]  
 cp_named[, (columns) := lapply(.SD, as.numeric), .SDcols = columns]
 
 # Group by 'sym' column and calculate mean for other columns
