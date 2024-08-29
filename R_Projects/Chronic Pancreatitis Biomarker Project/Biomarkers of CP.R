@@ -23,9 +23,9 @@ my_id <- "GSE143754"
 gse <- getGEO(my_id)
 str(gse)
 #look at the data features
-#View(exprs(gse))
-#View(pData(gse))
-#View(fData(gse))
+#View(exprs(gse[[1]]))
+#View(pData(gse[[1]]))
+#View(fData(gse[[1]]))
 #check for normalization; values fall between 0 and 16, so likely to be log2 normalized already
 summary(exprs(gse[[1]]))
 #boxplot to check normalization further; looks good
